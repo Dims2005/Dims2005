@@ -44,6 +44,8 @@ Saya adalah mahasiswa program studi **D4 Teknologi Rekayasa Perangkat Lunak (TRP
 
 ---
 
-### 📬 Mari Terhubung!
+---
+
+### 📬 Let's Connect!
 - 📩 **Email Resmi:** dimasalmuhaimin2005@gmail.com
-- 💼 **LinkedIn Profile:** [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn Profile:** [linkedin.com/in/dimas-al-muhaimin-47ba4b439](https://linkedin.com)

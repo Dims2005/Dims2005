@@ -35,15 +35,6 @@ Saya adalah mahasiswa program studi **D4 Teknologi Rekayasa Perangkat Lunak (TRP
 
 ---
 
-### 📊 Aktivitas & Statistik GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Dimas's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ---
 
 ### 📬 Let's Connect!
